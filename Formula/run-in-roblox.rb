@@ -5,8 +5,8 @@ class RunInRoblox < Formula
   homepage "https://github.com/rojo-rbx/run-in-roblox"
 
   url "https://github.com/rojo-rbx/run-in-roblox/releases/download/v0.3.0/run-in-roblox-0.3.0-win64.zip"
-  sha256 "590738bf134c0a1d3d6f865089bec8288fe7b7ec388471780f1f48b22d12440f"
   version "0.3.0"
+  sha256 "590738bf134c0a1d3d6f865089bec8288fe7b7ec388471780f1f48b22d12440f"
   license "MIT"
 
   def install
