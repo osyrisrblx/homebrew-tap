@@ -1,5 +1,3 @@
-require "fileutils"
-
 class RunInRoblox < Formula
   desc "Run a place, model, or individual script inside Roblox Studio"
   homepage "https://github.com/rojo-rbx/run-in-roblox"
