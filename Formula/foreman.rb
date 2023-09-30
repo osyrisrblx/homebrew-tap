@@ -7,6 +7,8 @@ class Foreman < Formula
   # sha256 ""
   license "MIT"
 
+  depends_on "openssl"
+
   def install
     bin.install "foreman"
   end
