@@ -12,5 +12,5 @@ Or `brew tap osyrisrblx/tap` and then `brew install <formula>`.
 
 ## Formula
 
-- **aftman** - installs the latest binary of [aftman](https://github.com/LPGhatguy/aftman)
+- **foreman** - installs the latest binary of [foreman](https://github.com/Roblox/foreman)
 - **run-in-roblox** - installs the latest Windows binary of [run-in-roblox](https://github.com/rojo-rbx/run-in-roblox)
